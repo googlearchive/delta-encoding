@@ -1,0 +1,10 @@
+{
+  "name": "delta-encoding",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-exec": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-gh-pages": "latest"
+  }
+}
